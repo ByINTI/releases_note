@@ -1,4 +1,4 @@
-#INTI - Release Notes
+# INTI - Release Notes
 
 # Sprint 101
 Essa sprint recebeu o nome de [101](https://en.wikipedia.org/wiki/101_(topic)) pois serve de aprendizado para equipe de desenvolvimento de como não fazer uma sprint. Assim como no primeiro semestre da faculdade, todos chegamos achando que sabíamos o que estávamos fazendo, e acabamos aprendendo que subestimamos muito os desafios. Isso acabou gerando atrasos pois as estimativas de tempo acabaram saindo bem menor do que esperado.
@@ -31,6 +31,19 @@ Para equipe de DEV:
 
 # Frontend
 
-## Novo Front End
+## Nova Interface
 * Novo front-end, vendas online, para eventos sem mapa
-> O novo front-office é capaz de trazer uma nova experiencia para os usuários que irão comprar em uma plataforma white-label utilizando imagens, textos, tipos de preços, menu de aplicativo personalizáveis para cada cliente e para cada evento.
+> O novo front-office é capaz de trazer uma nova experiencia para os usuários que irão comprar em uma plataforma white-label utilizando imagens, textos, tipos de preços, menu de aplicativo personalizáveis para cada cliente e para cada evento. 
+
+## Novo processo de compra
+* Um novo processo de compra mais ágil e rápido.
+> Utilizando as melhores técnmicas de usuabilidade, foi desenhado um novo modelo de compra na qual, o usuário passa por três etapas rápidas para a compra do ingresso, sendo elas: - Login, - Identificaço, - Compra. Na qual, caso o usuário já é um comprador na base de dados da entidade, ele já tem os seus dados recuperados para ir direto a etapa de pagamento. O Pagamento agora consta um auxílio visual para o preenchimento do cartão de crédito.
+
+## Aplicativo de Assinantes
+#### Theatro Municipal e OSESP
+* Lançamento do aplicativo dos assinantes para o Theatro Municipal [iTunes](https://itunes.apple.com/us/app/theatro-municipal-sp/id1352559506?ls=1&mt=8) [Play Store](https://play.google.com/store/apps/details?id=com.byinti.theatromunicipalsp) & OSESP [LINK](https://osesp-assinante.byinti.com)
+> O Aplicativo de assinantes foi lanado em duas versões, online e mobile. Sendo a versão mobile, lançadas nas stores da Apple e Google.
+
+## Área de recuperação de ingressos
+* Uma nova ferramenta para recuperação de ingressos vendidos na nova plataforma.
+> Após a compra o usuário, pode recuperar os ingressos vendidos, atribuir ele a um portador, assim dando mais controle do usuário junto à sua compra.
