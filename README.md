@@ -10,6 +10,8 @@ Para equipe de DEV:
 #Backend
 ## Avulsos
 * Pesquisa de eventos por nome
+* Api aberta
+> A api tem o principal objetivo a comunicação entre o back-end (servidor) e o front-end, contudo construída de forma universal possibilitando que outros sistemas se integrem.
 * Vendas por transação (Fiado) em admin e bilheteria
 > Esse tipo de venda especifico permite que nossos cliente continuem trabalhando de forma tradicional com seu publico alvo, podem fazer uma venda que será registrado no sistema com ingressos válidos, contudo que não teve sua venda liquidada ainda.
 * Métodos de pagamento personalizado para cada cliente em Bilheteria
@@ -31,4 +33,4 @@ Para equipe de DEV:
 
 ## Novo Front End
 * Novo front-end, vendas online, para eventos sem mapa
-> O novo front-office é capaz de trazer uma nova experiencia para os usuários que irão comprar em uma plataforma white-label utilizando imagens, textos, tipos de preços, menu de aplicativo personalizáveis para cada cliente e para cada evento. O novo front trouxe outra conquista para o time que é a implementação de uma api aberta para consultas e vendas. Essa api tem o principal objetivo a comunicação entre o back-end (servidor) e o front-end, contudo construída de forma universal possibilitando que outros sistemas se integrem.
+> O novo front-office é capaz de trazer uma nova experiencia para os usuários que irão comprar em uma plataforma white-label utilizando imagens, textos, tipos de preços, menu de aplicativo personalizáveis para cada cliente e para cada evento.
