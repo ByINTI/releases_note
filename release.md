@@ -7,9 +7,8 @@ Essa sprint recebeu o nome de [101](https://en.wikipedia.org/wiki/101_(topic)) p
 Para equipe de DEV:
  1. Precisamos separar melhor cada pedaço do problema dentro das Sprints para ser mais acertivo nas estimativas de tempo.
 
+#Backend
 ## Avulsos
-* Novo front-end, vendas online, para eventos sem mapa
-> O novo front-office é capaz de trazer uma nova experiencia para os usuários que irão comprar em uma plataforma white-label utilizando imagens, textos, tipos de preços, menu de aplicativo personalizáveis para cada cliente e para cada evento. O novo front trouxe outra conquista para o time que é a implementação de uma api aberta para consultas e vendas. Essa api tem o principal objetivo a comunicação entre o back-end (servidor) e o front-end, contudo construída de forma universal possibilitando que outros sistemas se integrem.
 * Pesquisa de eventos por nome
 * Vendas por transação (Fiado) em admin e bilheteria
 > Esse tipo de venda especifico permite que nossos cliente continuem trabalhando de forma tradicional com seu publico alvo, podem fazer uma venda que será registrado no sistema com ingressos válidos, contudo que não teve sua venda liquidada ainda.
@@ -28,3 +27,8 @@ Para equipe de DEV:
 * Transmissão de nota fiscal automatizada
 > Integramos o sistema INTI a plataforma Bling para emissão de nota fiscal de forma automática para cada compra realizada.
 
+#Frontend
+
+## Novo Front End
+* Novo front-end, vendas online, para eventos sem mapa
+> O novo front-office é capaz de trazer uma nova experiencia para os usuários que irão comprar em uma plataforma white-label utilizando imagens, textos, tipos de preços, menu de aplicativo personalizáveis para cada cliente e para cada evento. O novo front trouxe outra conquista para o time que é a implementação de uma api aberta para consultas e vendas. Essa api tem o principal objetivo a comunicação entre o back-end (servidor) e o front-end, contudo construída de forma universal possibilitando que outros sistemas se integrem.
