@@ -40,8 +40,10 @@ Para equipe de DEV:
 > Utilizando as melhores técnmicas de usuabilidade, foi desenhado um novo modelo de compra na qual, o usuário passa por três etapas rápidas para a compra do ingresso, sendo elas: - Login, - Identificaço, - Compra. Na qual, caso o usuário já é um comprador na base de dados da entidade, ele já tem os seus dados recuperados para ir direto a etapa de pagamento. O Pagamento agora consta um auxílio visual para o preenchimento do cartão de crédito.
 
 ## Aplicativo de Assinantes
-#### Theatro Municipal e OSESP
-* Lançamento do aplicativo dos assinantes para o Theatro Municipal [iTunes](https://itunes.apple.com/us/app/theatro-municipal-sp/id1352559506?ls=1&mt=8) [Play Store](https://play.google.com/store/apps/details?id=com.byinti.theatromunicipalsp) & OSESP [LINK](https://osesp-assinante.byinti.com)
+* Lançamento do aplicativo dos assinantes para:
+- Theatro Municipal [(iTunes)](https://itunes.apple.com/us/app/theatro-municipal-sp/id1352559506?ls=1&mt=8) & [(Play Store)](https://play.google.com/store/apps/details?id=com.byinti.theatromunicipalsp) 
+- OSESP [(LINK)](https://osesp-assinante.byinti.com)
+
 > O Aplicativo de assinantes foi lanado em duas versões, online e mobile. Sendo a versão mobile, lançadas nas stores da Apple e Google.
 
 ## Área de recuperação de ingressos
