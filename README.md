@@ -21,6 +21,13 @@ Para equipe de DEV:
 * Relatórios financeiros
 > Novos relatórios financeiros foram construídos para atender nossos clientes no seu balanço e fechamentos.
 
+
+## Sócios
+* Possibilidade de cadastrar um preço diferenciado para renovação
+> A aplicação de desconto se baseia no valor do plano cheio, ou seja, um plano de 200, com renovaçao de 180 e aplicaçao de desconto de 50% irá gerar um pagamento total de 100 reais.
+* Envio de Comunicaçao com escolha se a pessoa é a assinante ou nao.
+> Funcao disponivel em comunicaçoes programadas
+
 ## Sistema
 * Nova infraestrutura de acesso ao disco
 > O sistema que antes utilizava um HD magnético foi migrado para um SDD. Isso permite que o sistema tenha acesso as informações de banco de dados com performance bem maior.
