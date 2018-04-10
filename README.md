@@ -48,8 +48,8 @@ Para equipe de DEV:
 
 ## Aplicativo de Assinantes
 * Lançamento do aplicativo dos assinantes para:
-- Theatro Municipal [(iTunes)](https://itunes.apple.com/us/app/theatro-municipal-sp/id1352559506?ls=1&mt=8) & [(Play Store)](https://play.google.com/store/apps/details?id=com.byinti.theatromunicipalsp) 
-- OSESP [(LINK)](https://osesp-assinante.byinti.com)
+#### Theatro Municipal [(iTunes)](https://itunes.apple.com/us/app/theatro-municipal-sp/id1352559506?ls=1&mt=8) & [(Play Store)](https://play.google.com/store/apps/details?id=com.byinti.theatromunicipalsp) 
+#### OSESP [(LINK)](https://osesp-assinante.byinti.com)
 
 > O Aplicativo de assinantes foi lanado em duas versões, online e mobile. Sendo a versão mobile, lançadas nas stores da Apple e Google.
 
