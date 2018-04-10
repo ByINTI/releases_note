@@ -7,7 +7,7 @@ Essa sprint recebeu o nome de [101](https://en.wikipedia.org/wiki/101_(topic)) p
 Para equipe de DEV:
  1. Precisamos separar melhor cada pedaço do problema dentro das Sprints para ser mais acertivo nas estimativas de tempo.
 
-#Backend
+# Backend
 ## Avulsos
 * Pesquisa de eventos por nome
 * Api aberta
@@ -29,7 +29,7 @@ Para equipe de DEV:
 * Transmissão de nota fiscal automatizada
 > Integramos o sistema INTI a plataforma Bling para emissão de nota fiscal de forma automática para cada compra realizada.
 
-#Frontend
+# Frontend
 
 ## Novo Front End
 * Novo front-end, vendas online, para eventos sem mapa
